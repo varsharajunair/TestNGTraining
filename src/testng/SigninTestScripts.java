@@ -16,7 +16,7 @@ import testng.RegistrationTestScripts;
 public class SigninTestScripts {
 	//new
 	private static final CharSequence Data = null;
-	ChromeDriver driver; 
+	ChromeDriver driver; //test	
   @Test
   public void verifyCredentialswithcorrectCredentials() {
   ObjectRepository or = new ObjectRepository();
