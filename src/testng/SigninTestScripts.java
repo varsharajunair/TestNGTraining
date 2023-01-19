@@ -14,6 +14,7 @@ import testing.design.setupTest;
 import testng.RegistrationTestScripts;
 
 public class SigninTestScripts {
+	//new
 	private static final CharSequence Data = null;
 	ChromeDriver driver; 
   @Test
